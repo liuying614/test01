@@ -10,6 +10,7 @@ public class MyDate {
 		System.out.println("123");
 		System.out.println("分支");
 		System.out.println("分支1");
+		System.out.println("主干");
 	}
 
 }
