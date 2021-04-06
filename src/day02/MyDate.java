@@ -8,6 +8,7 @@ public class MyDate {
 		int aaa = da.getYear();
 		System.out.println(aaa);
 		System.out.println("123");
+		System.out.println("∑÷÷ß");
 	}
 
 }
