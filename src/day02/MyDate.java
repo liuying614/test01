@@ -7,6 +7,7 @@ public class MyDate {
 		Date da = new Date();
 		int aaa = da.getYear();
 		System.out.println(aaa);
+		System.out.println("123");
 	}
 
 }
